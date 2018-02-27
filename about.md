@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About me
+title: about me
 permalink: /about/
 ---
 Write a bio!
