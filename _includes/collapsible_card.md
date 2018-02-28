@@ -1,7 +1,3 @@
-<html>
-
-
-<link rel="stylesheet" type="text/css" href="/css/main.css">
 <div class="card collapsible" markdown="1">
 <div class="collapsibleCard" markdown="1">
 {{include.title}}
@@ -11,6 +7,5 @@
 </div>
 </div>
 
-<script src="/javaScript/collapsibleCard.js"></script>
 
-</html>
+<script src="/javaScript/collapsibleCard.js"></script>
