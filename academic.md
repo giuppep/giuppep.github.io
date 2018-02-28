@@ -28,7 +28,6 @@ Our results suggest that these theories may *not* admit a well-posed initial val
 ## publications
 </div>
 <div class="collapsed" markdown="1">
-
 * G. Papallo, [*On the hyperbolicity of the most general Horndeski theory*](https://arxiv.org/abs/1710.10155) [[Phys. Rev D 96 (2017) 124036]](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.124036);
 * G. Papallo and H. S. Reall, [*On the local well-posedness of Lovelock and Horndeski theories*](https://arxiv.org/abs/1705.04370) [[Phys. Rev. D 96 (2017) 044019]](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.044019);
 * G. Papallo and H. S. Reall, [*Graviton time delay and a speed limit for small black holes in Einstein-Gauss-Bonnet theory*](https://arxiv.org/abs/1508.05303) [[JHEP 2015 (2015) 109]](https://link.springer.com/article/10.1007%2FJHEP11%282015%29109).
@@ -42,7 +41,6 @@ You can find more details on [inspire](https://inspirehep.net/author/profile/G.P
 ## talks
 </div>
 <div class="collapsed" markdown="1">
-
 * *On the initial value problem in Lovelock and Horndeski theories of gravity*,HECAP Seminar, ICTP Trieste, 2018
 * *On the well-posedness of Lovelock and Horndeski theories of gravity*, DAMTP GR Seminar, University of Cambridge, 2017
 * *Causality and hyperbolicity in Lovelock gravity*, Gravitational Physics Seminar, University of Cardiff, 2016
@@ -51,19 +49,15 @@ You can find more details on [inspire](https://inspirehep.net/author/profile/G.P
 </div>
 </div>
 
-<script>
-var coll = document.getElementsByClassName("collapsibleCard");
-var i;
+<div class="card collapsible" markdown="1">
+<div class="collapsibleCard" markdown="1">
+## teaching
+</div>
+<div class="collapsed" markdown="1">
+I taught example classes for the following Part III (master's level) courses at Cambridge:
+* *General Relativity* [2015-2018]
+* *Black Holes* [2016]
+</div>
+</div>
 
-for (i = 0; i < coll.length; i++) {
-    coll[i].addEventListener("click", function() {
-        this.classList.toggle("active");
-        var content = this.nextElementSibling;
-        if (content.style.display === "block") {
-            content.style.display = "none";
-        } else {
-            content.style.display = "block";
-        }
-    });
-}
-</script>
+<script src="/javaScript/collapsibleCard.js"></script>
