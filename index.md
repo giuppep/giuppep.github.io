@@ -3,7 +3,7 @@ layout: default
 title: giuseppe papallo
 ---
 <div class="card" markdown="1">
-I am a Research Engineer at [Evolution AI](https://evolution.ai)!
+I am a Research Engineer at [Evolution AI](https://evolution.ai){:target="_blank"}!
 
 In the past few years I have been working on General Relativity. More specifically I have been studying the mathematical properties of certain alternative theories of gravity.
 
