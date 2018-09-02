@@ -9,5 +9,7 @@ In the past few years I have been working on General Relativity. More specifical
 
 Recently I became interested in Machine Learning and Neural Networks. (*More on this coming soon!*)
 
-I also like [photography](http://giuseppe.papallo.it) and [cooking](https://instagram.com/greedyscholars)!
+I also like [photography](http://giuseppe.papallo.it){:target="_blank"} and [cooking](https://instagram.com/greedyscholars){:target="_blank"}!
+
+My [PGP Public Key](/files/pgp_key.txt){:target="_blank"}.
 </div>

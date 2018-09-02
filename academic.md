@@ -4,7 +4,7 @@ title: academic
 permalink: /academic/
 ---
 <div class="card" markdown="1">
-I am a PhD student in the General Relativity group at [DAMTP, University of Cambridge](http://www.damtp.cam.ac.uk/).
+I am a PhD student in the Relativity and Gravitation group at [DAMTP](http://www.damtp.cam.ac.uk/), [University of Cambridge](http://www.cam.ac.uk/).
 </div>
 
 <div class="card collapsible" markdown="1">
@@ -41,7 +41,7 @@ You can find more details on [inspire](https://inspirehep.net/author/profile/G.P
 ## talks
 </div>
 <div class="collapsed" markdown="1">
-* *On the initial value problem in Lovelock and Horndeski theories of gravity*,HECAP Seminar, ICTP Trieste, 2018
+* [*On the initial value problem in Lovelock and Horndeski theories of gravity*](/files/ICTP_seminar.pdf), HECAP Seminar, ICTP Trieste, 2018
 * *On the well-posedness of Lovelock and Horndeski theories of gravity*, DAMTP GR Seminar, University of Cambridge, 2017
 * *Causality and hyperbolicity in Lovelock gravity*, Gravitational Physics Seminar, University of Cardiff, 2016
 * *Causality in Lovelock theories of gravity*, DPMMS Junior Geometry Seminar, University of Cambridge, 2016
