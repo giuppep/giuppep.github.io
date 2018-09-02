@@ -4,7 +4,8 @@ title: academic
 permalink: /academic/
 ---
 <div class="card" markdown="1">
-I am a PhD student in the General Relativity group at [DAMTP, University of Cambridge](http://www.damtp.cam.ac.uk/).
+I recently completed my PhD in the General Relativity group at [DAMTP, University of Cambridge](http://www.damtp.cam.ac.uk/), with the thesis
+[*Causality and the initial value problem in Modified Gravity*](https://www.repository.cam.ac.uk/handle/1810/277416).
 </div>
 
 <div class="card collapsible" markdown="1">
