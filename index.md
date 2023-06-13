@@ -1,13 +1,11 @@
 ---
 layout: default
-title: giuseppe papallo
+title: giuppep
 ---
-<div class="card" markdown="1">
-I am a Research Engineer at [Evolution AI](https://evolution.ai){:target="_blank"}!
+# About me
 
-In the past few years I have been working on General Relativity. More specifically I have been studying the mathematical properties of certain alternative theories of gravity.
+Hi I'm Giuseppe! I am currently a Senior Research Engineer at
+[Evolution AI](https://evolution.ai){:target="_blank"}!
 
-I recently completed my PhD at DAMTP, University of Cambridge with the thesis [*Causality and the initial value problem in Modified Gravity*](https://www.repository.cam.ac.uk/handle/1810/277416){:target="_blank"}.
-
-I also like [photography](http://giuseppe.papallo.it){:target="_blank"} and [cooking](https://instagram.com/greedyscholars){:target="_blank"}!
-</div>
+I recently completed my PhD at DAMTP, University of Cambridge with the thesis
+[*Causality and the initial value problem in Modified Gravity*](https://www.repository.cam.ac.uk/handle/1810/277416){:target="_blank"}.
