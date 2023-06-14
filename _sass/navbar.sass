@@ -1,0 +1,58 @@
+header
+    top: 0
+    position: sticky
+    background: $background-colour
+
+    display: flex
+    justify-content: start
+    align-items: center
+    gap: 1rem
+
+    padding: 1rem 2rem 1rem 2rem
+
+    @media (max-width: $layout-breakpoint-small)
+        flex-direction: column
+        align-items: start
+        #navbarLogoAndToggle
+            width: 100%
+
+    #navbarLogoAndToggle
+        display: flex
+        align-items: center
+        justify-content: space-between
+
+    h1
+        font-weight: bold
+        white-space: nowrap
+        font-size: 14pt !important
+        margin: 0
+        padding: 0
+
+    #navbarToggleIcon
+        cursor: pointer
+        display: none
+        @media (max-width: $layout-breakpoint-small)
+            display: block
+
+    nav
+        @media (max-width: $layout-breakpoint-small)
+            display: none
+
+            &.show
+                display: flex !important
+
+        ul
+            display: flex
+            justify-content: start
+            gap: 1rem
+            list-style: none
+            margin: 0
+            padding: 0
+
+            @media (max-width: $layout-breakpoint-small)
+                flex-direction: column
+                gap: 0.25rem !important
+
+            li a
+                text-decoration: none
+                margin: auto
