@@ -5,5 +5,5 @@
         </a>
     </strong>
     <a href="{{ include.publication.journal_link }}">{{ include.publication.journal}}</a>
-    <span>{{ include.publication.authors | join: ", " }}</span>
+    <span>{{ include.publication.authors | array_to_sentence_string }}</span>
 </li>
