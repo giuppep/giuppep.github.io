@@ -1,0 +1,9 @@
+<li>
+    <strong>
+        <a href="{{ include.publication.arxiv_link}}">
+            {{ include.publication.title }}
+        </a>
+    </strong>
+    <a href="{{ include.publication.journal_link }}">{{ include.publication.journal}}</a>
+    <span>{{ include.publication.authors | join: ", " }}</span>
+</li>

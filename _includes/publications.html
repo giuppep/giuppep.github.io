@@ -1,0 +1,5 @@
+<ul class="publications">
+    {% for publication in include.publications %}
+    {% include _publication.html publication=publication %}
+    {% endfor %}
+</ul>
