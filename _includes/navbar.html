@@ -29,8 +29,26 @@
 
     <nav id="navbar">
         <ul>
-            <li><a href="/">home</a></li>
-            <li><a href="/academic">academic</a></li>
+            <li>
+                <a
+                    href="/"
+                    {% if page.url == "/" %}
+                    class="active"
+                    {% endif %}
+                >
+                    home
+                </a>
+            </li>
+            <li>
+                <a
+                    href="/academic"
+                    {% if page.url == "/academic.html" %}
+                    class="active"
+                    {% endif %}
+                >
+                    academic
+                </a>
+            </li>
             <li>
                 <a
                     href="https://giuseppe.papallo.it"
