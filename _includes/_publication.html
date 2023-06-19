@@ -1,9 +1,9 @@
 <li>
-    <strong>
-        <a href="{{ include.publication.arxiv_link}}">
+    <h5>
+        <a  href="{{ include.publication.arxiv_link}}">
             {{ include.publication.title }}
         </a>
-    </strong>
+    </h5>
     <a href="{{ include.publication.journal_link }}">{{ include.publication.journal}}</a>
     <span>{{ include.publication.authors | array_to_sentence_string }}</span>
 </li>
