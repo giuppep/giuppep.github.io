@@ -5,7 +5,8 @@ title: academic
 # Academic
 
 Between 2014 and 2018 I was a PhD student in the General Relativity group at [DAMTP, University of Cambridge](http://www.damtp.cam.ac.uk/)
-where I graduated with the thesis [*Causality and the initial value problem in Modified Gravity*](https://www.repository.cam.ac.uk/handle/1810/277416), under the supervision of Prof. Harvey Reall.
+where I graduated with the thesis [*Causality and the initial value problem in Modified Gravity*](https://www.repository.cam.ac.uk/handle/1810/277416),
+under the supervision of [Prof. Harvey Reall](https://www.damtp.cam.ac.uk/person/hsr1000){:target="_blank"}.
 
 Before that, I read the [Part III of the Mathematical Tripos at Cambridge](https://www.maths.cam.ac.uk/postgrad/part-iii/prospective.html), where I focused
 on mathematical physics and wrote, as part of the course, an essay on
