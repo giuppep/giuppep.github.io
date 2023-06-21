@@ -11,19 +11,16 @@
 body
     background: $background-colour
 
-    margin: 0 auto 0 auto
-    padding: 0 2rem 0 2rem
-
-    width: 66%
-    @media (max-width: $layout-breakpoint-small)
-        width: 85%
+    margin: 0 auto
+    padding: 0 2rem
+    max-width: $body-max-width
 
 footer
     display: flex
     justify-content: start
     align-items: center
     gap: 0.5rem
-    font: 100% $title-font
+    font: 100% $font-sans
 
     .copyright
-        font-size: 8pt
+        font-size: 0.6rem
