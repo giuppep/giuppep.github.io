@@ -33,11 +33,10 @@ You can see more details regarding my publications on my [Google Scholar](https:
 
 ### Talks
 
-* *On the initial value problem in Lovelock and Horndeski theories of gravity*, HECAP Seminar, ICTP Trieste, 2018
-* *On the well-posedness of Lovelock and Horndeski theories of gravity*, DAMTP GR Seminar, University of Cambridge, 2017
-* *Causality and hyperbolicity in Lovelock gravity*, Gravitational Physics Seminar, University of Cardiff, 2016
-* *Causality in Lovelock theories of gravity*, DPMMS Junior Geometry Seminar, University of Cambridge, 2016
-* *Graviton time delay in Lovelock gravity*, DAMTP GR Seminar, University of Cambridge, 2015
+
+{% for talk in site.data.talks %}
+- *{{ talk.title }}*<br/> {{ talk.event }}, {{ talk.location }}, {{ talk.year }}
+{% endfor %}
 
 ## Teaching
 
