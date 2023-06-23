@@ -8,24 +8,24 @@ Hi, I'm **Giuseppe**, a Mathematical Physicist turned Software Engineer.
 
 I am currently a *Senior Research Engineer* at
 [Evolution AI](https://evolution.ai){:target="_blank"}, where we use modern Computer
-Vision and NLP techniques to automaticall extract information from PDFs and scanned
+Vision and NLP techniques to automatically extract information from PDFs and scanned
 documents.
-Here I have been working on building complex web applications as well as some of the
+Here, I have been working on building complex web applications as well as some of the
 Machine Learning models that power our solutions.
 We also organize the [London Machine Learning Meetup](https://www.meetup.com/London-Machine-Learning-Meetup/){:target="_blank"}.
 
 Before becoming a Software Engineer, I completed a PhD in General Relativity at the
-University of Cambridge. You can read more about my research [here](/academic).
+University of Cambridge. You can find more details about my research [here](/academic).
 
 ### Open source projects
 
-I enjoy writing software and, every now and then, I get to work on some small projects
-outside of work. You can find most things on my [GitHub](https://github.com/giuppep):
+I enjoy writing software and occasionally take on small side projects outside of work.
+You can find most of them on my [GitHub](https://github.com/giuppep) profile:
 
-- [`rstr`](https://github.com/giuppep/rstr): a simple, content-addressable blob-store written in Rust.
-It also has a [Python client](https://github.com/giuppep/rstr-client).
-- [`flask-pg-session`](https://github.com/giuppep/flask-pg-session): a Flask extension
-that implements server-side session support using PostgreSQL as a backend.
+- [`rstr`](https://github.com/giuppep/rstr): a simple content-addressable blob-store written in Rust
+with a [Python client](https://github.com/giuppep/rstr-client).
+- [`flask-pg-session`](https://github.com/giuppep/flask-pg-session): a `Flask` extension
+that implements server-side session support using `PostgreSQL` as a backend.
 
 ## Beyond work
 
@@ -57,4 +57,5 @@ food-related traditions and techniques from all over the world.
 I am particularly interested in fermented foods.
 
 Back in uni I used to run [@greedyscholars](https://www.instagram.com/greedyscholars/)
-with my friend [Bruno]() where we posted artsy pictures of our culinary creations.
+with my friend [Bruno](https://brloureiro.github.io/) where we posted pictures of our
+culinary creations.
