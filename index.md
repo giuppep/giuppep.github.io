@@ -4,6 +4,8 @@ title: home
 ---
 # About me
 
+![giuppep's portrait by @le.pap](/assets/img/peppe.svg "giuppep by @le.pap"){:class="profile-drawing"}
+
 Hi, I'm **Giuseppe**, a Mathematical Physicist turned Software Engineer.
 
 I am currently a *Senior Research Engineer* at
