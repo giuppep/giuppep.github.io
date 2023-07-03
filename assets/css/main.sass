@@ -1,0 +1,50 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+@import "constants"
+@import "colours"
+@import "typography"
+@import "navbar"
+@import "publications"
+
+body
+    background: $background-colour
+
+    margin: 0 auto
+    padding: 0 2rem
+    max-width: $body-max-width
+
+    @media (max-width: $layout-breakpoint-small)
+        padding: 0 1.5rem
+
+footer
+    display: flex
+    justify-content: start
+    align-items: baseline
+    gap: 0.5rem
+    font-family: $font-sans
+    padding-bottom: .25rem
+
+    font-size: 0.6rem
+
+    a
+        text-decoration: none
+
+// HACK: when rendering markdown, jekyll wraps list elements in a <p> tag
+li p
+    margin: 0
+    padding: 0
+
+.profile-drawing
+    // HACK: change the SVG colour to match #3B3B3B
+    filter: invert(18%) sepia(0%) saturate(1189%) hue-rotate(135deg) brightness(90%) contrast(80%)
+
+    padding: .5rem 1rem
+    height: 9rem
+    float: inline-start
+
+    @media (max-width: $layout-breakpoint-small)
+        display: block
+        float: none
+        margin: 0 auto

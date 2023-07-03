@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Fira+Code:wght@300;400;500;600;700&family=Manrope:wght@300;400;500;600;700;800&display=swap')
+
+$font-sans: 'Manrope', sans-serif
+$font-serif: 'Cormorant Garamond', serif
+$font-mono: 'Fira Code', monospace
+
+$font-base-size: 20px
+
+html
+    font-size: $font-base-size
+    font-weight: 400
+
+body
+    font-family: $font-serif
+    color: $primary-colour
+    line-height: 1.5rem
+
+    // Increase slightly font size and weight to improve readability on mobile
+    @media (max-width: $layout-breakpoint-small)
+        font-weight: 500 !important
+        font-size: 1.1rem
+        line-height: 1.6rem
+
+nav
+    font-family: $font-sans
+
+h1, h2, h3, h4, h5, h6
+    font-family: $font-sans
+    color: $primary-colour
+    padding: 0
+    margin: 0
+
+h1
+    font-weight: 800
+    font-size: 2.5rem
+    line-height: 4rem
+
+h2
+    font-weight: 700
+    font-size: 2rem
+    line-height: 4rem
+
+h3
+    font-weight: 500
+    font-size: 1.75rem
+    line-height: 2rem
+
+h4
+    font-weight: 400
+    font-size: 1.5rem
+
+h5
+    font-weight: 500
+    font-size: 1.25rem
+
+h6
+    font-weight: 500
+    font-size: 1rem
+
+a
+    color: $secondary-colour
+    text-decoration-thickness: 0.05rem
+    text-underline-offset: 0.1rem
+
+    &:hover
+        color: $accent-colour
+
+code
+    font-family: $font-mono
+    font-size: 0.75rem
