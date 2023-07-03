@@ -45,8 +45,8 @@ I taught example classes for the following Part III (master's level) courses at 
 * *General Relativity* (2015-2018) — [Solutions](https://drive.google.com/drive/folders/0B9Zt6SMRBBvTVW1HSDFicFFYdkE?resourcekey=0-4SSin-u4bWQWIEFDpfhr9Q&usp=sharing){:target="_blank"}
 * *Black Holes* (2016)
 
-After finishing my PhD, I was fortunate enough that my friend (and colleague) Jack Williams
-invited me to join him on a trip to India to give lectures about maths-related topics
-to (mostly) high school students. We covered topics such as non-euclidean geometry,
+After finishing my PhD, I had the fortune of being invited by my friend and colleague,
+Jack Williams, to join him on a trip to India to give lectures about maths-related topics
+to (mostly) high school students. We covered topics such as non-Euclidean geometry,
 cryptography, probability and basic machine learning. You can find some of the lecture
 notes [here](https://drive.google.com/drive/folders/1D-sjAMoxO9STHQo7HXBly--QMOupgIMM?usp=drive_link){:target="_blank"}.
