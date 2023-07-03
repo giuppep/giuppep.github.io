@@ -15,12 +15,15 @@ body
     padding: 0 2rem
     max-width: $body-max-width
 
+    @media (max-width: $layout-breakpoint-small)
+        padding: 0 1.5rem
+
 footer
     display: flex
     justify-content: start
     align-items: baseline
     gap: 0.5rem
-    font: 100% $font-sans
+    font-family: $font-sans
     padding-bottom: .25rem
 
     font-size: 0.6rem

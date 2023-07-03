@@ -10,19 +10,22 @@ html
     font-size: $font-base-size
     font-weight: 400
 
-    @media (max-width: $layout-breakpoint-small)
-        font-weight: 450
-
 body
-    font: 100% $font-serif
+    font-family: $font-serif
     color: $primary-colour
     line-height: 1.5rem
 
+    // Increase slightly font size and weight to improve readability on mobile
+    @media (max-width: $layout-breakpoint-small)
+        font-weight: 500 !important
+        font-size: 1.1rem
+        line-height: 1.6rem
+
 nav
-    font: 100% $font-sans
+    font-family: $font-sans
 
 h1, h2, h3, h4, h5, h6
-    font: 100% $font-sans
+    font-family: $font-sans
     color: $primary-colour
     padding: 0
     margin: 0
@@ -63,5 +66,5 @@ a
         color: $accent-colour
 
 code
-    font: 100% $font-mono
+    font-family: $font-mono
     font-size: 0.75rem
