@@ -4,7 +4,7 @@ title: home
 ---
 # About me
 
-![giuppep's portrait by @le.pap](/assets/img/peppe.svg "giuppep by @le.pap"){:class="profile-drawing"}
+![giuppep's portrait by Filippo Papallo](/assets/img/peppe.svg "giuppep by Filippo Papallo"){:class="profile-drawing"}
 
 Hi, I'm **Giuseppe Papallo**, a Mathematical Physicist turned Software Engineer.
 
