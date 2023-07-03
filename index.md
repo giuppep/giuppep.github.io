@@ -8,12 +8,11 @@ title: home
 
 Hi, I'm **Giuseppe**, a Mathematical Physicist turned Software Engineer.
 
-I am currently a *Senior Research Engineer* at
-[Evolution AI](https://evolution.ai){:target="_blank"}, where we use modern Computer
-Vision and NLP techniques to automatically extract information from PDFs and scanned
-documents.
-Here, I have been working on building complex web applications as well as some of the
-Machine Learning models that power our solutions.
+I am currently a *Staff Engineer* at
+[Evolution AI](https://evolution.ai){:target="_blank"}, where we use modern Machine Learning
+techniques to automatically extract information from PDFs and scanned documents.
+Here, I have been working on building complex web applications as well as developing
+some of the Machine Learning models that power our solutions.
 We also organize the [London Machine Learning Meetup](https://www.meetup.com/London-Machine-Learning-Meetup/){:target="_blank"}.
 
 Before becoming a Software Engineer, I completed a PhD in General Relativity at the
@@ -31,7 +30,6 @@ that implements server-side session support using `PostgreSQL` as a backend.
 
 ## Beyond work
 
-
 ### Music
 
 I love music! I play guitar, cavaquinho and a few Brazilian percussion instruments.
@@ -41,7 +39,6 @@ I had the priviledge of playing [*alfaia*](https://en.wikipedia.org/wiki/Alfaia)
 [*Nação de Maracatu Porto Rico*](https://nacaoportorico.maracatu.org.br/) in the official parade
 of Recife's Carnival in 2023 and for [*Baque de Axé*](https://www.baquedeaxe.com/) in
 Notting Hill Carnival in 2019.
-
 
 ### Photography
 
@@ -58,6 +55,6 @@ I am a keen cook and love experimenting in the kitchen as well as learning about
 food-related traditions and techniques from all over the world.
 I am particularly interested in fermented foods.
 
-Back in uni I used to run [@greedyscholars](https://www.instagram.com/greedyscholars/)
-with my friend [Bruno](https://brloureiro.github.io/) where we posted pictures of our
-culinary creations.
+Back in uni, my friend [Bruno](https://brloureiro.github.io/) and I used to run
+[@greedyscholars](https://www.instagram.com/greedyscholars/) where we posted pictures of
+our culinary creations.
